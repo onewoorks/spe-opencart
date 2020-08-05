@@ -34,3 +34,4 @@ define('DB_PREFIX', 'spe_');
 
 // OpenCart API
 define('OPENCART_SERVER', 'https://www.opencart.com/');
+
